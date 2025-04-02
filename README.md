@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 
 ![g0rnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=g0rnn&show_icons=true&theme=transparent)
 
+## Solved.ac Stats
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyunh01)](https://solved.ac/gyunh01/)
 <!--
 ## Languages and Tools
 
