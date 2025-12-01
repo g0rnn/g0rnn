@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **g0rnn/g0rnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,14 +13,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
+<h1 align="center">Hi 👋 I'm 김균호</h1>
 
-- 🌱 I’m currently learning new technologies and improving my coding skills.
-- 👯 I’m looking to collaborate on open-source projects.
-- 🤔 I’m looking for help with advanced coding techniques.
-- 💬 Ask me about anything related to web development.
-- 📫 How to reach me: [gyunh01@naver.com](mailto:gyunh01@naver.com)
-- ⚡ Fun fact: This is definitely not an AI-written introduction. Never.
+<p align="center">
+  <a href="https://github.com/USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=g0rnn&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
+
+## 📫 Contact  
+- ✉️ Email: gyunh01@naver.com
+- 📄 Blog : [g0rnn.github.io](https://g0rnn.github.io)
+
+
+## 🔭 Current Projects
+
+### 🗳️ WAPs — 대학 프로젝트/팀빌딩/투표 플랫폼  
+**Spring Boot 3 · JPA · MySQL · Security · AWS**  
+- 팀빌딩 알고리즘 설계 (선호 기반 매칭)  
+- 투표 메타데이터 구조 설계 (`VoteMeta`, `Ballot`, DTO/Record 구조화)  
+- Admin API & Semester 기반 투표 제어  
+- JPA Query Mismatch 디버깅, Schema 인덱싱, Fetch 전략 최적화  
+
+
+## 🛠 Tech Stack
+
+#### Backend
+`Java` · `Spring Boot` · `Spring Security` · `JPA/Hibernate` · `MySQL`  
+
+#### DevOps / Tools  
+AWS EC2 · S3 · GitHub Actions · Grafana · Prometheus  
+
 
 ## GitHub Stats
 
