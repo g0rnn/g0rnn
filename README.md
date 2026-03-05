@@ -47,11 +47,14 @@ AWS EC2 · S3 · GitHub Actions · Grafana · Prometheus
 
 ## GitHub Stats
 
-![g0rnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=g0rnn&show_icons=true&theme=transparent)
+![g0rnn's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=g0rnn&show_icons=true&theme=vue)   ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=g0rnn&layout=compact&theme=vue)
+
 
 ## Solved.ac Stats
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyunh01)](https://solved.ac/gyunh01/)
+
+
 <!--
 ## Languages and Tools
 
