@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋 I'm 김균호</h1>
 
 <p align="center">
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/g0rnn">
     <img src="https://komarev.com/ghpvc/?username=g0rnn&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
 </p>
